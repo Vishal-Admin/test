@@ -2,7 +2,7 @@ import React from 'react'
 
 const srtmun = () => {
   return (
-    <div>srtmun</div>
+    <div>srtmun smsmsmmmsmsmsm</div>
   )
 }
 
